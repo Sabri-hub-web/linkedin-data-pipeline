@@ -29,3 +29,24 @@ The pipeline transforms raw profile data into structured, enriched, and scored d
 src/ → pipeline scripts
 data/ → input/output datasets
 notebooks/ → exploration & testing
+
+
+## 🚀 Results
+
+- Automated manual prospecting tasks
+- Structured and enriched lead database
+- Prioritized contacts based on behavioral scoring
+- Improved targeting efficiency for marketing teams
+
+## 🎯 Learning Outcomes
+
+Through this project, I strengthened my skills in:
+- Data engineering workflows
+- Data cleaning & transformation
+- API integration
+- Scoring logic design
+- Business-oriented data solutions
+
+---
+👤 Author: Sabri Serradj  
+Data Science & AI Student
