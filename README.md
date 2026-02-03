@@ -26,3 +26,6 @@ The pipeline transforms raw profile data into structured, enriched, and scored d
 
 ## 📂 Project Structure
 
+src/ → pipeline scripts
+data/ → input/output datasets
+notebooks/ → exploration & testing
