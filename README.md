@@ -2,13 +2,13 @@
 
 A Python-based data pipeline designed to extract, clean, enrich, and score LinkedIn profiles for marketing intelligence and lead prioritization.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project automates the collection and processing of LinkedIn engagement data (likes, comments, interactions) to identify and prioritize high-potential leads.
 
 The pipeline transforms raw profile data into structured, enriched, and scored datasets that can be directly used for business and marketing decisions.
 
-## ⚙️ Features
+##  Features
 
 - Data extraction from CSV / LinkedIn exports
 - Data cleaning and preprocessing (Pandas)
@@ -16,7 +16,7 @@ The pipeline transforms raw profile data into structured, enriched, and scored d
 - Behavioral scoring system to rank leads
 - Modular and reusable pipeline architecture
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -24,21 +24,21 @@ The pipeline transforms raw profile data into structured, enriched, and scored d
 - APIs integration
 - Data preprocessing & scoring algorithms
 
-## 📂 Project Structure
+##  Project Structure
 
 src/ → pipeline scripts
 data/ → input/output datasets
 notebooks/ → exploration & testing
 
 
-## 🚀 Results
+##  Results
 
 - Automated manual prospecting tasks
 - Structured and enriched lead database
 - Prioritized contacts based on behavioral scoring
 - Improved targeting efficiency for marketing teams
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I strengthened my skills in:
 - Data engineering workflows
